@@ -1,0 +1,7 @@
+target 'Engineer.ai_assignment' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+ pod 'NVActivityIndicatorView'     #Activity Indicator
+  # Pods for Engineer.ai_assignment
+
+end
